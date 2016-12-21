@@ -1,0 +1,3 @@
+= DeskOS: gedit-desktop-fix RPM
+
+This is the _gedit-desktop-fix_ RPM package for the *DeskOS* operating system.
